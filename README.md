@@ -1,6 +1,6 @@
 # Task #3
 ## creating new end effector: 
-### the objective of this task is to new end effector that a capable of spike opponent's ballon.
+### the objective of this task is to design new end effector that is capable of spike opponent's ballon.
 
 
 **previos robot arm:**
